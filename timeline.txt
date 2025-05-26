@@ -1,0 +1,10 @@
+npm init
+script: node index.js => npm run start
+npm i express
+app.get()
+npm run start
+reload
+npm i dotenv => hide important data
+.env file => variable
+require('dotenv').config()
+process.env.variable
