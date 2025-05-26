@@ -8,3 +8,5 @@ npm i dotenv => hide important data
 .env file => variable
 require('dotenv').config()
 process.env.variable
+deployment => variable : value
+res.json()
